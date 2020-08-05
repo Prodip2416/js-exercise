@@ -10,3 +10,16 @@ console.log('food is love'==='food is Love');
 console.log(true === 1); 
 console.log(false === 0); 
 console.log(null === undefined);
+
+// Result
+// true
+// true
+// true
+// true
+// true
+// true
+// ---------------------------------
+// false
+// false
+// false
+// false
